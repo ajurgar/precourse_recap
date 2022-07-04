@@ -1,8 +1,8 @@
 num_1 = 8
 num_2 = 3
 num_3 = 6.7
-country_1 = "Spain"
-country_2 = "France"
+country_1 = "spain"
+country_2 = "france"
 
 total_1 = num_1 + num_2
 total_2 = num_1 - num_3
@@ -13,3 +13,6 @@ print(total_1)
 print(total_2)
 print(total_3)
 print(fav_countries)
+
+country_1.capitalize()
+country_2.upper()
