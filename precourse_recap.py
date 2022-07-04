@@ -4,7 +4,10 @@ num3 = 6.7
 country = "Spain"
 country = "France"
 
-num1 + num2
-num1 - num3
-num2 * num1
+ total1 = num1 + num2
+total2 = num1 - num3
+total3 = num2 * num1
 
+print(total1)
+print(total2)
+print(total3)
