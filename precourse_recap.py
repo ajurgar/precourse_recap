@@ -1,14 +1,14 @@
-num1 = 8
-num2 = 3
-num3 = 6.7
-country1 = "Spain"
-country2 = "France"
+num_1 = 8
+num_2 = 3
+num_3 = 6.7
+country_1 = "Spain"
+country_2 = "France"
 
-total1 = num1 + num2
-total2 = num1 - num3
-total3 = num2 * num1
+total_1 = num_1 + num2
+total_2 = num_1 - num_3
+total_3 = num_2 * num_1
 
-print(total1)
-print(total2)
-print(total3)
-country1 + " " + country2
+print(total_1)
+print(total_2)
+print(total_3)
+country_1 + " " + country_2
