@@ -4,7 +4,7 @@ num_3 = 6.7
 country_1 = "Spain"
 country_2 = "France"
 
-total_1 = num_1 + num2
+total_1 = num_1 + num_2
 total_2 = num_1 - num_3
 total_3 = num_2 * num_1
 
