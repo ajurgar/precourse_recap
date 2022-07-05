@@ -14,5 +14,5 @@ print(total_2)
 print(total_3)
 print(fav_countries)
 
-country_1.capitalize()
-country_2.upper()
+print(country_1.capitalize())
+print(country_2.upper())
